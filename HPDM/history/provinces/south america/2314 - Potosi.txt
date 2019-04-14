@@ -1,0 +1,10 @@
+owner = PBC
+controller = PBC
+add_core = BOL
+trade_goods = dye
+life_rating = 30
+terrain = cold_desert_mountains
+1861.1.1 = {
+	owner = BOL
+	controller = BOL
+}

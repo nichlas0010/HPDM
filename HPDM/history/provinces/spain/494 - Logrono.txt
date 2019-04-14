@@ -1,0 +1,12 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+trade_goods = iron
+life_rating = 35
+terrain = dry_forest_hills
+revolt = {
+type = carlist_rebels
+controller = yes
+}
+1861.1.1 = { railroad = 3 }
+

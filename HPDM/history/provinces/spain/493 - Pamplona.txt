@@ -1,0 +1,13 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = BSQ
+trade_goods = fruit
+life_rating = 35
+terrain = mountain_farmland
+revolt = {
+type = carlist_rebels
+controller = yes
+}
+1861.1.1 = { railroad = 3 }
+

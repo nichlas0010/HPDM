@@ -1,0 +1,15 @@
+owner = TEX
+controller = TEX
+add_core = TEX
+add_core = MEX
+trade_goods = cattle
+life_rating = 35
+terrain = hilly_grassland
+fort = 1
+1861.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
+	add_core = USA
+	remove_core = MEX
+}
