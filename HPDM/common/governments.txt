@@ -97,3 +97,12 @@ democracy = {
 	appoint_ruling_party = no
 	flagType = republic
 }
+
+theocracy = {
+	#which ideology of parties.
+	reactionary = yes
+	conservative = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
